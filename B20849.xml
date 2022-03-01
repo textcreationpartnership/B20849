@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lieut: Generall Cromwells letter to the House of Commons, of all the particulars of taking the city of Bristoll; and the manner of P: Ruperts marching to Oxford. Together with two orders; the one, for a day of thanksgiving in all parts of the kingdom within the power of the Parliament. And the other, for a collection for a distressed and plundered party in the said city of Bristoll. / Ordered by the Commons assembled in Parliament, that this letter and orders be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20849</idno>
+            <idno type="STC">Wing C7114A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 3850[25]</idno>
+            <idno type="STC">ESTC R232937</idno>
+            <idno type="EEBO-CITATION">99889136</idno>
+            <idno type="PROQUEST">ocm99889136</idno>
+            <idno type="VID">186867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186867)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:5[25a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lieut: Generall Cromwells letter to the House of Commons, of all the particulars of taking the city of Bristoll; and the manner of P: Ruperts marching to Oxford. Together with two orders; the one, for a day of thanksgiving in all parts of the kingdom within the power of the Parliament. And the other, for a collection for a distressed and plundered party in the said city of Bristoll. / Ordered by the Commons assembled in Parliament, that this letter and orders be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 18. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The two Parliamentary orders are dated 17 Sept. 1645.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Conclusion of Lieuten: Generall Cromwells letter to the House of Commons, concerning the taking of Bristoll.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bristol (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:186867:1"/>
+            <pb facs="tcp:186867:1" rendition="simple:additions"/>
+            <p>Lieut: Generall <hi>Cromwells</hi> LETTER TO The Houſe of Commons, OF All the Particulars of taking the City of <hi>BRISTOLL;</hi> And the manner of P: <hi>Ruperts</hi> marching to Oxford.</p>
+            <p>Together with two Orders;</p>
+            <p>The one, for a Day of Thankſgiving in all parts of the Kingdom within the power of the Parliament.</p>
+            <p>And the other, for a Collection for a diſtreſſed and plundered party in the ſaid City of Briſtoll.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Letter and Orders be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>Sept.</hi> 18. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:186867:2"/>
+            <pb n="3" facs="tcp:186867:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed the Generall to give me in charge to repreſent unto you a particular Accompt of the taking of <hi>Briſtoll,</hi> the which I gladly under<g ref="char:EOLhyphen"/>take.</p>
+            <p>After the finiſhing of that Service at <hi>Sher<g ref="char:EOLhyphen"/>born,</hi> it was diſputed at a Councell of War, whe<g ref="char:EOLhyphen"/>ther we ſhould march into the Weſt, or to <hi>Bri<g ref="char:EOLhyphen"/>ſtoll?</hi> Amongſt other Arguments, the leaving ſo conſiderable an Enemy at our backs to march into the heart of the Kingdom, the undoing of the Country about <hi>Briſtoll,</hi> which was exceedingly harraſſed by the Prince his being but a Fortnight thereabouts, the correſpondence he might hold with Wales, the poſſibility of uniting the Enemies Forces where they pleaſed, and eſpecially the drawing to an Head the diſ-affected Club-men of Somerſet, Wilts, and Dorſer, when once our backs were towards them. Theſe conſidera<g ref="char:EOLhyphen"/>tions, together with the taking ſo important a place, ſo Advanta<g ref="char:EOLhyphen"/>geous for the opening of Trade to London, did ſway the ballance, and begat that concluſion. When we came within four miles of the City, we had a new debate, whether we ſhould endeavour to Block it up, or make a Regular Siege; The latter being over<g ref="char:EOLhyphen"/>ruled, Colonel <hi>Welden</hi> with his Brigade, marched to Pile-hill, on the South ſide of the City, being within Musquet ſhot thereof, where in a few dayes they made a good Quarter, over-looking the City; upon our advance, the Enemy fired Bedminſter, Clifton, and ſome other Villages, and would have fired the Countrey there<g ref="char:EOLhyphen"/>abouts, if our unexpected coming had not hindred. The Generall cauſed ſome Horſe and Dragoons under Commiſſary Generall <hi>Ire<g ref="char:EOLhyphen"/>ton,</hi> to Advance over Avon, to keep in the Enemy on the North ſide of the Town, untill the Foot could come up; and after a day, the Generall, with Colonell <hi>Mountagues,</hi> and Colonell <hi>Rains<g ref="char:EOLhyphen"/>broughs</hi> Brigades, marched over at Keynſham to Stapleton, where he Quartered that Night; the next day, Colonell <hi>Mountague</hi> ha<g ref="char:EOLhyphen"/>ving his Poſt aſſigned with his Brigade, was to ſecure all between
+<pb n="4" facs="tcp:186867:3"/>Froom and Avon: he came up to Lawfords-gate, within Muſ<g ref="char:EOLhyphen"/>quet ſhot thereof: Colonell <hi>Rainsbroughs</hi> Poſt was near to Durdham Down, where the Dragooners and three Regiments of Horſe made good a Poſt upon the Down between him and the Ri<g ref="char:EOLhyphen"/>ver Avon on his right hand, and from Colonell <hi>Rainsborows,</hi> Quar<g ref="char:EOLhyphen"/>ters to Froom River on his left: A part of Colonell <hi>Birch,</hi> and Major Generall <hi>Skippons</hi> Regiment were to maintain that Poſt; theſe Poſts being thus ſetled, our horſe were forced to be upon ex<g ref="char:EOLhyphen"/>ceeding great duty to ſtand by the foot, leaſt the foot being ſo weak in all their Poſts, might receive an affront; and truly herein we were very happy, that we ſhould receive ſo little loſſe by Sal<g ref="char:EOLhyphen"/>lies, conſidering the paucity of our men to make good the Poſts, and the ſtrength of the Enemy within, by Sallies, (which were three or four) I know not that we loſt thirty men in all the time of our Siege; of Officers of quality, onely Colonell <hi>Okey,</hi> was taken by miſtake going to the enemy, thinking them to be friends, and Cap<g ref="char:EOLhyphen"/>tain <hi>Guilliams</hi> ſlain in a charge: We took Sir <hi>Barnard Aſtley,</hi> and killed Sir <hi>Richard Crane,</hi> one very conſiderable with the Prince: We had a Councell of War concerning the Storming of the Town about eight dayes before we took it, and in that there appeared great unwillingneſſe to the work, through the unſeaſonableneſſe of the weather, and other apparant difficulties. Some inducement to bring us thither, was the report of the good <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffection of the Townſmen to us, but that did not anſwer expectation: Vpon a ſecond conſideration, it was over-ru<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d for a <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orme, which no ſooner con<g ref="char:EOLhyphen"/>cluded, but difficulties were removed, and all things ſeemed to fa<g ref="char:EOLhyphen"/>vour the d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſigne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and indeed there h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been ſeldome the like cheerfulneſſe in Caſticers and Souldier, to any work like to this, af<g ref="char:EOLhyphen"/>ter it was once reſolved on. The day and hour of our Storm, was ap<g ref="char:EOLhyphen"/>pointed to be Wedneſday morning the 10, about one of the clock; we choſe to act it ſo early, becauſe we hoped thereby to ſurprize the Enemy, with this reſolution alſo (<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> avoid confuſion, and falling foule upon one another) that when we had recovered the Line, and Forts upon it, we could not advance further untill day: The Gene<g ref="char:EOLhyphen"/>ralls ſignall unto the Storm was the firing of Straw, and diſcharging four piece of Canon at Prier hill Fort, the ſignall was very well perceived by all, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruly the men went on with great reſolution, and very preſently, recovered the Line, making way for the horſe to enter, Colonell <hi>Montague</hi> and Colonell <hi>Pickering</hi> who ſtormed
+<pb n="5" facs="tcp:186867:3"/>at Lawfords gate, where was a double work well filled with men and canon, preſently entred, and with great reſolution be at the E<g ref="char:EOLhyphen"/>nemy from their works, and poſſeſſed their canon, their expedition was ſuch, that they forced the Enemy from their advantages, with<g ref="char:EOLhyphen"/>out any conſiderable loſſe to themſelves, they laid down the Bridges for the horſe to enter; Major <hi>Desborough</hi> commanding the horſe, who very gallantly ſeconded the foot; then our foot advanced to the city walls, where they poſſeſſed the gate againſt the Caſtle-ſtreet, whereinto were put a hundred men, who made it good: Sir <hi>Hardreſſe Waller</hi> with his and the Generalls Regiment, with no leſſe reſolution, entred on the other ſide of Lawfords Gate towards Avon River, and put themſelves into an immediate conjunction with the reſt of the Brigade: During this, Colonell <hi>Rainsborow</hi> and Colonell <hi>Hamond</hi> attempted Prior-hill Fort, and the Line downwards towards Froom, Colonell <hi>Birch,</hi> and the Major Ge<g ref="char:EOLhyphen"/>nerals Regiment being to Storme towards Froome River; Colo<g ref="char:EOLhyphen"/>nell <hi>Hamond</hi> poſſeſſed the Line immediatly, and beating the Enemy from it, made way for our horſe to enter: Colonell <hi>Rainsborow,</hi> who had the hardeſt taske of all at Prior hill Fort, attempted it, and fought near three hours for it; and indeed there was great deſpair of carrying the place, it being exceeding high, a Ladder of thirty rounds ſca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce reaching the top thereof; but his reſolution was ſuch, that not withſtanding the inacceſſablèneſſe and difficulty, he would not give it over: The Enemy had four piece of canon upon it, which they plyed with round and caſe ſhot upon our men, his Lieutenant Colonell <hi>Bowen,</hi> and others, were two hours at puſh of Pike, ſtanding upon the Pallizadoes but could not enter; Col: <hi>Hamond,</hi> being entred the Line, and Capt. <hi>Ireton</hi> with a Forlorn of Col: <hi>Riches</hi> Regiment, interpoſing with his Horſe between the E<g ref="char:EOLhyphen"/>nemies Horſe and Col: <hi>Hamond,</hi> received a ſhot with two Piſtoll bullets, which brake his Arme, by means the entrance of Col. <hi>Ha<g ref="char:EOLhyphen"/>mond</hi> did Storm the Fort on that part which was inward: By which means, Col. <hi>Rainsbrough</hi> and Col: <hi>Hamonds</hi> men entred the Fort, and immediatly put to the Sword, almoſt all in it; and as this was the place of moſt difficulty, ſo of moſt loſſe to us on that ſide, and of very great honour to the undertaker. The Horſe did ſe<g ref="char:EOLhyphen"/>cond them with great reſolution; both theſe Colonels do acknow<g ref="char:EOLhyphen"/>ledge, that their interpoſition between the Enemies Horſe and their Foot, was a great means of obtaining this ſtrong Fort, without
+<pb n="6" facs="tcp:186867:4"/>which, all the reſt of the Line to Froom-River, would have done us little good; and indeed, neither Horſe nor Foot would have ſtood in all that way, in any manner of ſecurity, had not the Fort been taken.</p>
+            <p>Major <hi>Bethels</hi> were the firſt horſe entred the Line, who did be<g ref="char:EOLhyphen"/>have himſelf very gallantly, and was ſhot in the thigh, had one or two ſhots more, and his horſe killed under him.</p>
+            <p>Colonell <hi>Birch</hi> with his men, and the Major Generalls Regi<g ref="char:EOLhyphen"/>ment, entred with very good Reſolution, where their Poſt was, poſſeſſing the Enemies Guns, and turning them upon them.</p>
+            <p>By this all the Line from Priors-hill Fort, to Avon, which was a full mile, with all the Forts, Ordnance, and Bulwarks, were poſ<g ref="char:EOLhyphen"/>ſeſſed by us; but one wherein there were about an hundred and twenty men of the Enemy, which the Generall Summoned, and all the men ſubmitted.</p>
+            <p>The ſucceſſe on Colonell <hi>Weldens</hi> ſide, did not anſwer with this, and although the Colonells and other the Officers and Soul<g ref="char:EOLhyphen"/>diers both Horſe &amp; Foot, teſtified very much reſolution as could be expected; Colonell <hi>Welden,</hi> Col. <hi>Ingoldsby,</hi> Col. <hi>Herbert,</hi> and the reſt of the Colonells, and Officers, both of Horſe and Foot, doing what could be well looked for from men of honour, yet what by reaſon of the height of the Works, which proved higher then report made them, and the ſhortneſſe of the Ladders, they were repulſed with the loſſe of about 100. men, Col. <hi>Forteſcu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Lieu<g ref="char:EOLhyphen"/>tenant colonell was killed, Major <hi>Cromwell</hi> dangerouſly ſhot, and two of Gol. <hi>Ingoldsbies</hi> brothers hurt, with ſome Officers.</p>
+            <p>Being poſſeſſed of thus much as hath been related, the Town was fired in three places by the Enemy, which we could not put out, and this begat a great trouble to the Generall, and us all, fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ring to ſee ſo famous a City burnt to aſhes before our faces, whiles we were viewing ſo ſad a ſpectacle, and conſulting which way to make further advantage of our Succeſſe; the Prince ſent a Trumpet to the Generall, to deſire a Treaty for the ſurrender of the Towne, to which the Generall agreed, and deputed Colo<g ref="char:EOLhyphen"/>nell <hi>Mountague,</hi> Col. <hi>Rainsborow,</hi> and Col. <hi>Pickering</hi> for that Service, Authorizing them with Inſtructions to treat, and con<g ref="char:EOLhyphen"/>clude the Articles which are theſe incloſed: For performance whereof, Hoſtages were mutually given on <hi>Thurſday</hi> about two of the clock in the afternoone. The Prince <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rched out having
+<pb n="7" facs="tcp:186867:4"/>a convoy of two Regiments of Horſe from us, and making Ele<g ref="char:EOLhyphen"/>ction of <hi>Oxford</hi> for the place he would goe to, which he had li<g ref="char:EOLhyphen"/>berty to doe by his Articles.</p>
+            <p>The Canon which we have taken are about one hundred and forty mounted, about 100. barrels of Powder, already come to our hands, with a good quantity of Shot, Ammunition, and Arms, we have ſound already between two and three thouſand Musquets. The Royall Fort had in it victuals for one hundred and fifty men, for three hundred and twenty dayes, the Caſtle victualled for neere halfe ſo long: The Prince had foot of the Garriſon as the Major of the City informed me, two thouſand five hundred, and about one thouſand horſe, beſide the Trayned bands of the Towne, and Auxiliaries one thouſand, ſome ſay fifteen hundred; I heare but one man hath died of the Plague in all our Army, although we have quartered amongſt and in the midſt of infected perſons and places, we had not killed of ours in this ſtorme, nor all this ſiege two hundred men.</p>
+            <p>Thus I have given you a true, but not a full account of this great buſineſſe wherein he that runs may read that all this is none other then the worke of God, he muſt be a very Atheiſt that doth not acknowledge it.</p>
+            <p>It may be thought that ſome praiſes are due to theſe gallant men, of whoſe valour ſo much mention is made, their humble ſuite to you and all that have an intereſt in this bleſſing is, that in remem<g ref="char:EOLhyphen"/>brance of Gods prayſes they may be forgotten: Its their joy that they are inſtruments to Gods glory, and their Countries good, its their honour that God vouchſafes to uſe them: Sir, they that have beene imployed in this Service know, that faith and Prayer obtained this City for you; I doe not ſay ours onely, but of the people of God with you, and all <hi>England</hi> over, who have wraſtled with God for a bleſſing in this very thing. Our deſires are, that God may be glorified by the ſame Spirit of faith, by which we aske all our ſufficiency, and having received it, it is meet that he have all the praiſe.</p>
+            <closer>
+               <signed>Your humble Servant, <hi>Oliver Cromwell.</hi>
+               </signed>
+               <dateline>From <hi>Briſtoll,</hi> 
+                  <date>14. Sept. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="8" facs="tcp:186867:5"/>
+            <opener>
+               <dateline>
+                  <date>17. September, 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That on the next Lords-Day thanks be given unto God for the great Succeſſe he hath given unto the Parliaments Forces under Sir <hi>Tho. Fairfax</hi> their Generall, in taking in the City of Briſtoll, with the Caſtle and Forts, in all the Churches and Chappels within the Lines of Communication, and Bills of Mortality; and that the next Lords-Day come Fortnight, being the fift day of October, in all the parts of the Kingdom, within the power of the Parliament; And that the Lord Major of the City of London, do give timely notice hereof, to all the Miniſters within the Lines of Communication, and Bills of Mortality; And that the Knights and Burgeſſes of the ſeverall Counties, Cities, and Burroughs, do give notice hereof, and ſend Copies of this Order to the ſeverall Counties, Cities and Burroughs: It is further Ordered, That-the Relation ſent up from Lieutenant Generall <hi>Cromwell</hi> by the command of the Generall, of Septemb. 14. be Printed, and Read upon the dayes on which pub<g ref="char:EOLhyphen"/>lique thanks are to be given unto God, for his great bleſſing in this Succeſſe given at Briſtoll,</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>17. September, 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That on the next Lords day on which publique thanks is appointed to be given to Almighty God, for the great Succeſſe at Briſtoll, a collection be made in all the Churches and Chappels within the Lines of Communication, and weekly Bills of Mortality: And the Moneys collected, paid into the Treaſurers for maimed Souldiers, at Tallow-chandlers Hall, by the ſeverall collectors and receivers of the ſaid Moneys, within two dayes after the ſaid collection, and by the ſaid Treaſurers, diſtributed for the Relief of many diſtreſſed and Plundered people of Briſtoll and the places adjacent.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:186867:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
